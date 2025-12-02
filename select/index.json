@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "春を告げる",
+  "base_artist": "yama",
+  "createdAt": "2025-12-02T12:59:14.024759Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "春を告げる - From THE FIRST TAKE",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/01_春を告げる_-_From_THE_FIRST_TAKE_yama.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "春を告げる",
+      "artist": "ダズビー",
+      "has_synced": true,
+      "path": "select/02_春を告げる_ダズビー.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "春を告げる",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/03_春を告げる_yama.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "春を告げる",
+      "artist": "yama",
+      "has_synced": false,
+      "path": "select/pl_01_春を告げる_yama.txt"
+    }
+  ]
+}
